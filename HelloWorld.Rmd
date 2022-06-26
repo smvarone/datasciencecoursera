@@ -1,8 +1,0 @@
----
-title: "HelloWorld"
-author: "Sara Varón"
-date: '2022-06-26'
-output: pdf_document
----
-
-## This is a markdown file
